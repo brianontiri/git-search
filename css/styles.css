@@ -1,11 +1,7 @@
 .top{
   text-align: center;
 }
- body{
-   background-color: black;
-
-  }
-  .details{
+.details{
     background-image: url("git.jpg");
     background-size: cover;
     height: 3000px;
